@@ -1,0 +1,6 @@
+Year: 2028
+Place: Norway
+Parameter1: society
+Parameter2: food
+
+Scenario: 
